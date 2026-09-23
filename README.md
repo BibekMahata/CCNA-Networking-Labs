@@ -29,11 +29,14 @@ Static Routing
 OSPF
 Routing & Switching
 Network Troubleshooting
-📚 Labs
+# 📚 Labs
 Lab	Topic	Status
 Lab 01	Small Office LAN	✅ Completed
+
 Lab 02	VLAN & Inter-VLAN Routing	✅ Completed
+
 Lab 03	IPv4 Addressing & Subnetting	🔄 Planned
+
 Lab 04	DHCP Configuration	🔄 Planned
 Lab 05	Static Routing	🔄 Planned
 Lab 06	OSPF Routing	🔄 Planned
