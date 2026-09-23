@@ -31,22 +31,22 @@ Routing & Switching
 Network Troubleshooting
 # 📚 Labs:
 
-# Lab 01	Small Office LAN	✅ Completed
+ Lab 01:	Small Office LAN	✅ Completed
 
-# Lab 02	VLAN & Inter-VLAN Routing	✅ Completed
+ Lab 02:	VLAN & Inter-VLAN Routing	✅ Completed
 
-# Lab 03	IPv4 Addressing & Subnetting	🔄 Planned
+ Lab 03:	IPv4 Addressing & Subnetting	🔄 Planned
 
-# Lab 04	DHCP Configuration	🔄 Planned
+ Lab 04:	DHCP Configuration	🔄 Planned
 
-# Lab 05	Static Routing	🔄 Planned
+ Lab 05:	Static Routing	🔄 Planned
 
-# Lab 06	OSPF Routing	🔄 Planned
+ Lab 06:	OSPF Routing	🔄 Planned
 
-# Lab 07	Extended VLAN & Trunking	🔄 Planned
+ Lab 07:	Extended VLAN & Trunking	🔄 Planned
 
-# Lab 08	Router-on-a-Stick	🔄 Planned
+ Lab 08:	Router-on-a-Stick	🔄 Planned
 
-# Lab 09	Network Troubleshooting	🔄 Planned
+ Lab 09:	Network Troubleshooting	🔄 Planned
 
-# Lab 10	Multi-Router Network	🔄 Planned
+ Lab 10:	Multi-Router Network	🔄 Planned
