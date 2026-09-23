@@ -1,0 +1,57 @@
+===============================
+CCNA LAB 02
+VLAN & INTER-VLAN ROUTING
+===============================
+
+SW1 CONFIGURATION
+=================
+
+enable
+configure terminal
+
+vlan 10
+name STAFF
+exit
+
+vlan 20
+name STUDENT
+exit
+
+interface range fa0/1-2
+switchport mode access
+switchport access vlan 10
+exit
+
+interface range fa0/3-4
+switchport mode access
+switchport access vlan 20
+exit
+
+interface fa0/24
+switchport mode trunk
+exit
+
+end
+
+
+R1 CONFIGURATION
+================
+
+enable
+configure terminal
+
+interface g0/0
+no shutdown
+exit
+
+interface g0/0.10
+encapsulation dot1Q 10
+ip address 192.168.10.1 255.255.255.0
+exit
+
+interface g0/0.20
+encapsulation dot1Q 20
+ip address 192.168.20.1 255.255.255.0
+exit
+
+end
