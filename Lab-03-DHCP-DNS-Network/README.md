@@ -219,23 +219,3 @@ The process of finding an IP address associated with a domain name, such as `www
 * A successful ping to the server by IP address confirms IP connectivity, while a successful ping using its DNS name also tests name resolution.
 * The first ping may time out while ARP or DNS resolution takes place. Retry if necessary.
 
-## 📂 Repository Files
-
-```text
-Lab-03-DHCP-DNS-Network/
-│
-├── README.md
-├── topology.png
-├── DHCP-DNS-Network.pkt
-└── configuration.txt
-```
-
-## 🏁 Conclusion
-
-This lab demonstrates how to configure DHCP on a Cisco router and DNS on a dedicated server using Cisco Packet Tracer. It provides practical experience with automatic IP addressing, DNS records, name resolution, and basic network connectivity testing.
-
-**Lab:** 03
-**Topic:** DHCP & DNS Network
-**Tool:** Cisco Packet Tracer
-**Level:** Beginner / CCNA Fundamentals
-
