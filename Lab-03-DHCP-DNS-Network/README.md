@@ -22,7 +22,7 @@ In this lab, I configured a Cisco router to assign IP addresses automatically to
 
 * 1 × Cisco Router (R1)
 * 1 × Cisco Switch (SW1)
-* 2 × Pcs (PC0, PC1)
+* 3 × Pcs and 2 x Laptops (PC0, PC1,PC2 and Laptop0,Laptop1)
 * 1 × Server (DHCP/DNS lab server; DNS service enabled)
 * Copper straight-through cables
 
